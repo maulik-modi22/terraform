@@ -1,0 +1,7 @@
+servers:
+ web:
+   host: "webserver.example.com"
+   port: 80
+ api:
+   host: "api.example.com"
+   port: 443
